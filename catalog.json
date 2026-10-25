@@ -21,6 +21,25 @@
       "published_at": "2026-10-25T23:33:00+00:00"
     },
     {
+      "name": "respond-sat-audit-requests-restaurants",
+      "path": "skills/respond-sat-audit-requests-restaurants",
+      "industry": "restaurants",
+      "region": "mx",
+      "subniche": "sat-audit-responses",
+      "role": "tax-advisor",
+      "description": "Prepara la respuesta de un restaurante en M\u00e9xico a requerimientos, cartas invitaci\u00f3n y auditor\u00edas del SAT: revisi\u00f3n de gabinete, visita domiciliaria, revisi\u00f3n electr\u00f3nica, visita de verificaci\u00f3n de CFDI y restricci\u00f3n de CSD. Identifica el tipo de acto y el fundamento del CFF que cita el oficio. Calcula el vencimiento en d\u00edas h\u00e1biles y la ampliaci\u00f3n posible. Arma el checklist documental del restaurante: CFDI de ingresos y factura global, conciliaci\u00f3n de efectivo, tarjeta y apps de reparto, propinas, n\u00f3mina, insumos y mermas, contabilidad electr\u00f3nica y declaraciones. Redacta el escrito para Buz\u00f3n Tributario u oficial\u00eda de partes. \u00dasala cuando digan \u00abme lleg\u00f3 un requerimiento del SAT\u00bb, \u00abcarta invitaci\u00f3n\u00bb, \u00aboficio de observaciones\u00bb, \u00abpreliquidaci\u00f3n\u00bb, \u00abvan a auditar el restaurante\u00bb, \u00ab\u00bfcu\u00e1ntos d\u00edas tengo para contestar?\u00bb, \u00abme restringieron el sello\u00bb. En espa\u00f1ol. No presenta tr\u00e1mites, no determina cr\u00e9ditos definitivos ni sustituye a contador p\u00fablico o abogado fiscalista.",
+      "verified": true,
+      "score": 4.0,
+      "files": [
+        "SKILL.md",
+        "references/checklist-documental-restaurantes.md",
+        "references/plantillas-escritos.md",
+        "references/presentacion-y-escalamiento.md",
+        "references/tipos-de-actos-y-plazos.md"
+      ],
+      "published_at": "2026-10-25T23:39:02+00:00"
+    },
+    {
       "name": "write-qa-airbnb-vrbo-listings",
       "path": "skills/write-qa-airbnb-vrbo-listings",
       "industry": "hospitality",
