@@ -2,6 +2,25 @@
   "skills": [
     {
       "name": "respond-sat-requerimiento-restaurant",
+      "path": "skills/respond-sat-requerimiento-restaurant",
+      "industry": "restaurants",
+      "region": "mx",
+      "subniche": "sat-audit-responses",
+      "role": "tax-advisor",
+      "description": "Prepara la respuesta de restaurantes, fondas, bares, cafeter\u00edas y dark kitchens en M\u00e9xico a actos del SAT: cartas invitaci\u00f3n, requerimientos de informaci\u00f3n u obligaciones omitidas, revisiones de gabinete, visitas domiciliarias, revisiones electr\u00f3nicas y verificaciones de expedici\u00f3n de CFDI. Clasifica el oficio, calcula plazos en d\u00edas h\u00e1biles conforme al CFF (incluida la ampliaci\u00f3n), arma la lista de documentos (CFDI de ingresos y egresos, factura global, propinas, n\u00f3mina, inventarios, estados de cuenta, plataformas de delivery, declaraciones, contabilidad electr\u00f3nica) y redacta el escrito libre con fundamentos e \u00edndice de anexos. \u00dasalo cuando el usuario diga: me lleg\u00f3 un requerimiento del SAT, carta invitaci\u00f3n, oficio de observaciones, revisi\u00f3n de gabinete a mi restaurante, visita domiciliaria, cu\u00e1ntos d\u00edas tengo para contestar, escrito libre al SAT, dep\u00f3sitos no coinciden con ingresos. No presenta en Buz\u00f3n Tributario ni litiga; solo se\u00f1ala cu\u00e1ndo procede recurso de revocaci\u00f3n o juicio de nulidad. Redactado en espa\u00f1ol (M\u00e9xico).",
+      "verified": true,
+      "score": 0,
+      "files": [
+        "SKILL.md",
+        "references/documentos-restaurante.md",
+        "references/escrito-libre.md",
+        "references/plazos-cff.md",
+        "references/tipos-de-actos.md"
+      ],
+      "published_at": "2026-10-25T23:19:56+00:00"
+    },
+    {
+      "name": "respond-sat-requerimiento-restaurant",
       "path": "skills/restaurants/mx/sat-audit-responses/tax-advisor/respond-sat-requerimiento-restaurant",
       "industry": "restaurants",
       "region": "mx",
