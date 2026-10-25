@@ -19,6 +19,26 @@
         "references/response-letter-template.md"
       ],
       "published_at": "2026-10-25T23:33:00+00:00"
+    },
+    {
+      "name": "write-qa-airbnb-vrbo-listings",
+      "path": "skills/write-qa-airbnb-vrbo-listings",
+      "industry": "hospitality",
+      "region": "us",
+      "subniche": "short-term-rental-listings",
+      "role": "operations-manager",
+      "description": "Drafts and QA-checks Airbnb and Vrbo listing copy for US short-term rental property managers: titles within platform character limits, property descriptions, amenity lists, house rules (quiet hours, occupancy, pets, parties, check-in/out), and public replies to guest reviews that defuse complaints and protect the rating. Use when asked to 'write a listing', 'rewrite my Airbnb title', 'audit this Vrbo listing', 'check for missing disclosures', 'draft house rules', 'fix the amenities list' or 'respond to this bad review'. Flags camera, stairs, pool and noise disclosures, misleading claims and Fair Housing-sensitive wording. Not for pricing, calendars, guest messaging, damage claims, or permit/tax/zoning advice.",
+      "verified": true,
+      "score": 4.33,
+      "files": [
+        "SKILL.md",
+        "references/fair-housing-language.md",
+        "references/listing-templates.md",
+        "references/platform-rules.md",
+        "references/qa-checklist.md",
+        "references/review-replies.md"
+      ],
+      "published_at": "2026-10-25T23:38:00+00:00"
     }
   ]
 }
