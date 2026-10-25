@@ -1,6 +1,26 @@
 {
   "skills": [
     {
+      "name": "gdpr-dsar-response-handling",
+      "path": "skills/gdpr-dsar-response-handling",
+      "industry": "saas",
+      "region": "eu",
+      "subniche": "gdpr-dsar-handling",
+      "role": "compliance-officer",
+      "description": "Runs a GDPR Article 15 data subject access request (DSAR / SAR) end to end for a small EU SaaS company. Covers intake logging, the controller-vs-processor check for B2B customer data, proportionate identity verification, the one-month clock and Art. 12(3) extensions, searching product DB, logs, support, CRM, billing and processors, redaction and withholding (third-party data, trade secrets, privileged material), and drafting the response letter with all Art. 15(1)-(2) information. Use when someone says \"we got a subject access request\", \"a user wants all the data we hold on them\", \"DSAR deadline\", \"can we extend the SAR\", \"what do we redact\", \"verify the requester's ID\", or \"draft the access request response\". Flags bundled erasure, rectification or portability requests but does not process them. Not legal advice; does not cover breaches or regulator complaints.",
+      "verified": true,
+      "score": 5.0,
+      "files": [
+        "SKILL.md",
+        "references/data-search-checklist.md",
+        "references/deadline-rules.md",
+        "references/identity-verification.md",
+        "references/redaction-and-exemptions.md",
+        "references/response-letter-template.md"
+      ],
+      "published_at": "2026-10-25T23:33:00+00:00"
+    },
+    {
       "name": "respond-sat-requerimiento-restaurant",
       "path": "skills/respond-sat-requerimiento-restaurant",
       "industry": "restaurants",
