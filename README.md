@@ -12,4 +12,4 @@ Install one skill:
 npx skills add wearetherobots/skill-factory-catalog --skill <skill-name>
 ```
 
-Every skill here was machine-generated and passed an automated eval (see `catalog.json` for the score). Review before using it in regulated work.
+Every skill here was machine-generated and passed an automated eval. The full evidence for each one (three tasks, both scores, the judge's rationale and the complete output) is in `evals/<skill-name>.json` and on its page at https://skill-factory.onrender.com. Review before using it in regulated work.
