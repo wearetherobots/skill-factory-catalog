@@ -40,6 +40,27 @@
       "published_at": "2026-10-25T23:39:02+00:00"
     },
     {
+      "name": "write-blameless-incident-postmortem",
+      "path": "skills/write-blameless-incident-postmortem",
+      "industry": "saas",
+      "region": "global",
+      "subniche": "incident-postmortem-writing",
+      "role": "devops",
+      "description": "Drafts blameless incident postmortems (post-incident reviews, PIRs, RCAs) for SaaS engineering teams from user-supplied exports: PagerDuty/Opsgenie paging history, Datadog/Prometheus/Grafana alerts, deploy and change logs, Slack/Teams incident-channel transcripts. Builds a UTC timeline with detection/mitigation metrics, separates trigger from contributing factors and root cause, quantifies customer impact (tenants, duration, error rate, SLO error-budget burn, SLA exposure, support tickets) and turns findings into owned, dated, prioritized action items. Use when a user says 'write the postmortem', 'draft the PIR/RCA for this SEV-1', 'turn this incident channel into a timeline', 'how much error budget did we burn', 'what was the root cause vs trigger', or 'make this postmortem blameless'.",
+      "verified": true,
+      "score": 4.33,
+      "files": [
+        "SKILL.md",
+        "references/action-items.md",
+        "references/blameless-language.md",
+        "references/causal-analysis.md",
+        "references/impact-quantification.md",
+        "references/postmortem-template.md",
+        "references/timeline-reconstruction.md"
+      ],
+      "published_at": "2026-11-18T04:45:11+00:00"
+    },
+    {
       "name": "write-qa-airbnb-vrbo-listings",
       "path": "skills/write-qa-airbnb-vrbo-listings",
       "industry": "hospitality",
