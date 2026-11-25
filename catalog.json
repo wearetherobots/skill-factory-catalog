@@ -42,6 +42,25 @@
       "eval_path": "evals/respond-sat-audit-requests-restaurants.json"
     },
     {
+      "name": "seed-startup-quarterly-board-update",
+      "path": "skills/seed-startup-quarterly-board-update",
+      "industry": "finance",
+      "region": "global",
+      "subniche": "seed-stage-startup-governance",
+      "role": "founder",
+      "description": "Drafts a candid quarterly board update for seed-stage startup founders from the metrics, financials and notes they provide. Produces a one-page summary covering MRR/revenue, growth, users and retention, cash, monthly burn and months of runway, wins and misses against last quarter's goals, top risks with mitigations, and specific asks of the board. Flags missing or inconsistent numbers. Use when a founder says 'write my board update', 'Q3 board deck pre-read', 'quarterly investor update for my board', 'how much runway do we have', 'turn these numbers into a board memo', or 'what should I ask my board for'. Does not build financial models, audit figures, draft board minutes or resolutions, give legal/tax/securities advice, or make pitch decks.",
+      "verified": true,
+      "score": 4.17,
+      "files": [
+        "SKILL.md",
+        "references/metrics-and-runway.md",
+        "references/risks-and-asks.md",
+        "references/update-template.md"
+      ],
+      "eval_path": "evals/seed-startup-quarterly-board-update.json",
+      "published_at": "2026-11-25T21:22:02+00:00"
+    },
+    {
       "name": "write-blameless-incident-postmortem",
       "path": "skills/write-blameless-incident-postmortem",
       "industry": "saas",
